@@ -1,2 +1,2 @@
-# Pasteleria-El-Biscocho
+# Pasteleria-El-Bizcocho
 Pagina de pasteles
